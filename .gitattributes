@@ -14,3 +14,16 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/54/0c/540c76a2c69dfae8f7b0f51f5315ac4b7be4ad73de5de75b227a5bbfff177025 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/7f/9f/7f9fb42402de443a49be64dc59206751c89751183c78d0cb82b1e3fb08bf9b40 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/91/cc/91cc6c1878de89c70d524bf90a0ccae0681d230320180dea41a8130279897b21 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/b5/46/b546632d1b57495a948aa575e81724f7e8c2ee3f07a80ac82c9c9babe12b1b18 filter=lfs diff=lfs merge=lfs -text
+.git/lfs/objects/fb/ae/fbae2ec79a5808e48eba68f6e3f2ac80b60b690b7a24df49f7548f4f726e2647 filter=lfs diff=lfs merge=lfs -text
+.git/objects/pack/pack-cfea70bb323b356f1e6c79e760372b766a51a92c.pack filter=lfs diff=lfs merge=lfs -text
+Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16-arm64.dll filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+Library/PackageCache/com.unity.burst/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text
