@@ -1,0 +1,359 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.33f1 (433b0a79340b) revision 4406026'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'ru' Physical Memory: 32388 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Unity\6000.0.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/MaProjects/TacticalBaseDefense
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57338
+-job-worker-count
+15
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: D:/Unity/MaProjects/TacticalBaseDefense
+D:/Unity/MaProjects/TacticalBaseDefense
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [15788]  Target information:
+
+Player connection [15788]  * "[IP] 192.168.0.109 [Port] 0 [Flags] 2 [Guid] 4113804173 [EditorId] 4113804173 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-7Q89HLV) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [15788] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [15788] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 15
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.33f1 (433b0a79340b)
+[Subsystems] Discovering subsystems at path D:/Unity/6000.0.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/MaProjects/TacticalBaseDefense/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.6607
+Initialize mono
+Mono path[0] = 'D:/Unity/6000.0.33f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/6000.0.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Unity/6000.0.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56160
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/VisionOSPlayer/UnityEditor.VisionOS.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/AppleTVSupport/UnityEditor.AppleTV.Extensions.dll
+Registered in 0.003367 seconds.
+- Loaded All Assemblies, in  0.286 seconds
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for AppleTV target not found
+[usbmuxd] Start listen thread
+[usbmuxd] Listen thread started
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1942 ms
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.263 seconds
+Domain Reload Profiling: 2549ms
+	BeginReloadAssembly (92ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (122ms)
+		LoadAssemblies (93ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (119ms)
+			TypeCache.Refresh (118ms)
+				TypeCache.ScanAssembly (107ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (2264ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2227ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2045ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (34ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.531 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+System.IO.IOException: Sharing violation on path C:\Users\Kirill\AppData\Local\plastic4\client.conf
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <ed969b0e627d471da4848289f9c322df>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <ed969b0e627d471da4848289f9c322df>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at Codice.Client.Common.ClientConfigData.Deserialize (System.String filename, System.Boolean bThrowOnError) [0x0000c] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Codice.Client.Common.ClientConfigData.Load (System.String filename) [0x00001] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Codice.Client.Common.ClientConfig.InitFromFile (System.String fileName) [0x00010] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Codice.Client.Common.ClientConfig.Get () [0x00065] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Unity.PlasticSCM.Editor.FindWorkspace.PathForApplicationPath (System.String path) [0x00000] in .\Library\PackageCache\com.unity.collab-proxy\Editor\FindWorkspace.cs:21 
+  at Unity.PlasticSCM.Editor.FindWorkspace.HasWorkspace (System.String path) [0x00000] in .\Library\PackageCache\com.unity.collab-proxy\Editor\FindWorkspace.cs:12 
+  at Unity.PlasticSCM.Editor.PlasticPlugin..cctor () [0x00038] in .\Library\PackageCache\com.unity.collab-proxy\Editor\PlasticPlugin.cs:80 
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+System.TypeInitializationException: The type initializer for 'Unity.PlasticSCM.Editor.PlasticPlugin' threw an exception. ---> System.IO.IOException: Sharing violation on path C:\Users\Kirill\AppData\Local\plastic4\client.conf
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <ed969b0e627d471da4848289f9c322df>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <ed969b0e627d471da4848289f9c322df>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at Codice.Client.Common.ClientConfigData.Deserialize (System.String filename, System.Boolean bThrowOnError) [0x0000c] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Codice.Client.Common.ClientConfigData.Load (System.String filename) [0x00001] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Codice.Client.Common.ClientConfig.InitFromFile (System.String fileName) [0x00010] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Codice.Client.Common.ClientConfig.Get () [0x00065] in <bc4b394796a146d5958dfc6ea6c36a72>:0 
+  at Unity.PlasticSCM.Editor.FindWorkspace.PathForApplicationPath (System.String path) [0x00000] in .\Library\PackageCache\com.unity.collab-proxy\Editor\FindWorkspace.cs:21 
+  at Unity.PlasticSCM.Editor.FindWorkspace.HasWorkspace (System.String path) [0x00000] in .\Library\PackageCache\com.unity.collab-proxy\Editor\FindWorkspace.cs:12 
+  at Unity.PlasticSCM.Editor.PlasticPlugin..cctor () [0x00038] in .\Library\PackageCache\com.unity.collab-proxy\Editor\PlasticPlugin.cs:80 
+   --- End of inner exception stack trace ---
+  at Unity.Cloud.Collaborate.ToolbarButton..ctor () [0x00006] in .\Library\PackageCache\com.unity.collab-proxy\Editor\Toolbar\ToolbarButton.cs:28 
+  at Unity.Cloud.Collaborate.ToolbarButton.InitializeIfNeeded () [0x00000] in .\Library\PackageCache\com.unity.collab-proxy\Editor\Toolbar\ToolbarButton.cs:22 
+  at Unity.Cloud.Collaborate.ToolbarBootstrap..cctor () [0x00000] in .\Library\PackageCache\com.unity.collab-proxy\Editor\Toolbar\ToolbarButton.cs:14 
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.528 seconds
+Domain Reload Profiling: 1059ms
+	BeginReloadAssembly (110ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (364ms)
+		LoadAssemblies (242ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (134ms)
+				TypeCache.ScanAssembly (121ms)
+			BuildScriptInfoCaches (45ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (529ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (398ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (66ms)
+			ProcessInitializeOnLoadAttributes (247ms)
+			ProcessInitializeOnLoadMethodAttributes (62ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 1.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 199 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5936 unused Assets / (5.6 MB). Loaded Objects now: 6592.
+Memory consumption went from 169.9 MB to 164.3 MB.
+Total: 9.525600 ms (FindLiveObjects: 0.815000 ms CreateObjectMapping: 0.410200 ms MarkObjects: 5.962600 ms  DeleteObjects: 2.336700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1452637.186678 seconds.
+  path: Assets/InputSystem_Actions.inputactions
+  artifactKey: Guid(052faaac586de48259a63d0c4782560b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/InputSystem_Actions.inputactions using Guid(052faaac586de48259a63d0c4782560b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02e5b530d5b44d961131ffba578cd945') in 0.0213203 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 20
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.695858 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c391582d739b6e62a5220f35cbb167ac') in 0.0005979 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.161738 seconds.
+  path: Assets/Assets
+  artifactKey: Guid(babf380b8c11bc548823ef84861a22ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets using Guid(babf380b8c11bc548823ef84861a22ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3f6e732d8a1d1801a43e0cf4d9a70f5a') in 0.0003505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.987288 seconds.
+  path: Assets/Resouces
+  artifactKey: Guid(177dd4f3c035bbb4c9c0de3661031b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resouces using Guid(177dd4f3c035bbb4c9c0de3661031b25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd8b959cf264ad6884d4de188e3c221c4') in 0.0003992 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 38 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5926 unused Assets / (6.3 MB). Loaded Objects now: 6596.
+Memory consumption went from 144.2 MB to 137.9 MB.
+Total: 7.515300 ms (FindLiveObjects: 0.491100 ms CreateObjectMapping: 0.367700 ms MarkObjects: 4.664400 ms  DeleteObjects: 1.991300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 91.233645 seconds.
+  path: Assets/Resouces/NewMonoBehaviourScript.cs
+  artifactKey: Guid(db2060a9c86266a43822ce4f9cc5a4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resouces/NewMonoBehaviourScript.cs using Guid(db2060a9c86266a43822ce4f9cc5a4a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2fffd35b69c06127668d100e4c3499b1') in 0.0021597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.491 seconds
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Native extension for AppleTV target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Failed to load: D:/Unity/6000.0.33f1/Editor/Data/PlaybackEngines/VisionOSPlayer\x64\UnityEditor.VisionOS.Native.dll
+Native extension for VisionOS target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.670 seconds
+Domain Reload Profiling: 1163ms
+	BeginReloadAssembly (141ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (19ms)
+	LoadAllAssembliesAndSetupDomain (296ms)
+		LoadAssemblies (225ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (137ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (120ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (671ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (515ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (71ms)
+			ProcessInitializeOnLoadAttributes (381ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 48 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5932 unused Assets / (6.3 MB). Loaded Objects now: 6612.
+Memory consumption went from 158.2 MB to 151.9 MB.
+Total: 5.720000 ms (FindLiveObjects: 0.367200 ms CreateObjectMapping: 0.218500 ms MarkObjects: 3.117400 ms  DeleteObjects: 2.016400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
